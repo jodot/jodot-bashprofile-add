@@ -1,0 +1,21 @@
+{
+  "name": "jodot-bashprofile-add",
+  "version": "1.0.0",
+  "description": "Jodot duty to add strings to the bash profile file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jodot",
+    "duty",
+    "bash",
+    "default",
+    "add"
+  ],
+  "author": "Vito Chin <vito@php.net> (http://www.vitochin.com)",
+  "license": "MIT",
+  "dependencies": {
+    "shelljs": "^0.7.4"
+  }
+}
